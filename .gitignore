@@ -4,3 +4,7 @@ data
 models
 *.swp
 *.p
+
+*.7z
+
+*.bat
